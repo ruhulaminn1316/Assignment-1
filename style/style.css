@@ -1,6 +1,27 @@
-.sec-1{
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+/* banner--section */
+.header{
  background:rgba(229, 84, 115, 0.10);
  
+}
+.banner{
+    padding: 100px 30px 0px 90px;
+    display: flex;
+    align-items: center;
+}
+.banner .prfle-pic{
+    width:350px;
+    height: 500px;
+   
+    
+
+    
+   
+    
 }
 .btn{
     border-radius: 8px;
@@ -10,5 +31,22 @@
     font-size:20px;
     font-weight:700px;
     color: #fff;
+    margin-top:20px;
+    margin-bottom: 100px;
 
 }
+.fst-1s{
+font-size:60px;
+color:#272727;
+margin-bottom: 0;
+
+
+}
+.fst-2s{
+    font-size:15px;
+    font-weight: 634px;
+    color:#272727;
+    margin-top:20px;
+
+}
+/*new section  */
