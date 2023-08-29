@@ -1,3 +1,14 @@
-h1{
-    font-size:500px;
+.sec-1{
+ background:rgba(229, 84, 115, 0.10);
+ 
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding:20px 43px;
+    border: 0;
+    font-size:20px;
+    font-weight:700px;
+    color: #fff;
+
 }
