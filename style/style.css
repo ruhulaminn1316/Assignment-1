@@ -15,13 +15,7 @@
 }
 .banner .prfle-pic{
     width:350px;
-    height: 500px;
-   
-    
-
-    
-   
-    
+    height: 500px; 
 }
 .btn{
     border-radius: 8px;
@@ -33,13 +27,11 @@
     color: #fff;
     margin-top:20px;
     margin-bottom: 100px;
-
 }
 .fst-1s{
 font-size:60px;
 color:#272727;
 margin-bottom: 0;
-
 
 }
 .fst-2s{
@@ -49,4 +41,35 @@ margin-bottom: 0;
     margin-top:20px;
 
 }
+
 /*new section  */
+.new-sec{
+    padding:130px;
+    text-align: center;
+}
+
+
+/* newwwwwww */
+.new-sec-2{
+    background-color:#E554730D;
+
+}
+.cont{
+    padding:100px 80px 30px 65px;
+    display: flex;
+    text-align: center;
+}
+.h33{
+    padding-top:150px;
+    font-size:35px;
+    font-weight: 800px;;
+
+}
+.img-2{
+    
+    padding-bottom:50px;
+padding-left:50px;
+}
+.ppp{
+    padding-top:20px;
+}
