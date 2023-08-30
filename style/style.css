@@ -169,6 +169,9 @@ tr{border: #272727;}
     
 }
 .fff{
+    
     display: flex;
     justify-content:center;
+    border-radius: 250px 250px 0px 0px ;
+    border:0px;
 }
