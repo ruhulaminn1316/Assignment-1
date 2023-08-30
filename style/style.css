@@ -44,8 +44,13 @@ margin-bottom: 0;
 
 /*new section  */
 .new-sec{
-    padding:130px;
+    padding:100px;
     text-align: center;
+    display: flex;
+}
+img-3{
+    width:300px;
+    flex-shrink: calc(0);
 }
 
 
@@ -72,4 +77,83 @@ padding-left:50px;
 }
 .ppp{
     padding-top:20px;
+}
+/* newwwwwwww */
+.four{
+    padding:100px 10px 10px 100px;
+    text-align: center;
+    display: flex;
+}
+.tt{
+    width:200px;
+    padding-left:10px;
+    flex-shrink:0;
+}
+.ru{
+    font-size: 40px;
+    font-weight: 800;
+}
+.to{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* newwwwwwwwwwwwwww */
+.taa{
+background-image: url(../Rectangle\ 9\ copy.png);
+background-size: contain;
+background-repeat: no-repeat;
+margin:50px 55px 20px 107px;
+text-align: center;
+
+
+}
+.rrrr{
+  height:38px;
+  width:500px;
+  border-radius:8px;
+  
+}
+.ii{
+padding-top: 60px;
+font-size:35px;
+font-weight: 800;
+margin-bottom:5px;
+}
+.rp{
+    margin-bottom:10px;
+}
+.btn2{
+    border-radius: 8px;
+    background: #E55473;
+    padding:10px;
+    border: 0;
+    font-size:20px;
+    font-weight:700px;
+    color: #fff;
+    margin-top:20px;
+    margin-bottom: 100px;
+}
+
+
+
+/* last cop........ */
+.ses{
+background-color: black;
+text-align: center;
+color: #fff;
+padding: 150px;;
+
+
+}
+.huh{
+    padding-bottom:10px;
+    font-size:40px;
+}
+.ggg{
+    margin-bottom:20px;
+}
+.bbb{
+    color:rgba(255, 255, 255, 0.40);
+    
 }
